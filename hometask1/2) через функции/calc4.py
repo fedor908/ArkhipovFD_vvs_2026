@@ -1,4 +1,4 @@
-from functions4 import *
+from func4 import *
 
 a = int(input('Введите первое число: '))
 zn = str(input('Введите знак операции: '))
